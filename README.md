@@ -26,6 +26,8 @@ Contains; Unity Package with all code and a dirt simple sample scene
 - Reset with Ease: Need to start over? Click "reinitialize" to reset lists and begin anew, saving time and streamlining your workflow.
 
 - Easily view all functions within a script and call void ones by simply clicking a boolean (Coming in v1.2, a singular error stops me currently)
+
+- To use the sample scene, please ensure TMP is installed! Upon clicking the scene with any new Unity version you should automatically see the TMP download window open!
 <br />
 
 ![Easy UI Nav](https://github.com/Walker-Industries-RnD/Easy_UI_Nav/blob/main/EasyUINav.png)
