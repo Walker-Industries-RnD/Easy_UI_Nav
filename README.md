@@ -5,6 +5,7 @@
 
 
 Contains; Unity Package with all code and a dirt simple sample scene
+###### Note, this is all HUMAN generated, dapper language /= GPT
 
 ![UINav Demo](https://github.com/Walker-Industries-RnD/Easy_UI_Nav/blob/main/UINav3.gif)
 
@@ -14,14 +15,13 @@ Contains; Unity Package with all code and a dirt simple sample scene
 
 
 
-
 ## Features
 
 - Effortless UI Navigation: EasyUINav simplifies Unity UI navigation, eliminating the need for manual configuration.
 
 - Intuitive Setup: Create navigation elements effortlessly by clicking the plus sign and dragging buttons to the designated slots.
 
-- Customization Made Easy: Tailor navigation paths by assigning game objects to enable and disable lists, ensuring seamless user experience.
+- Customization Made Easy: Easily set UI actions with a simple drag and drop system.
 
 - Reset with Ease: Need to start over? Click "reinitialize" to reset lists and begin anew, saving time and streamlining your workflow.
 
