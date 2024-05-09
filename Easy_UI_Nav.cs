@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System.Reflection;
+#if UNITY_EDITOR
 using UnityEditor;
+#endif
 using System;
 
 public class Easy_UI_Nav : MonoBehaviour
@@ -168,7 +170,11 @@ public class ObservedList<T> : IList<T>
     }
 }
 
+
+#if UNITY_EDITOR
+
 [CustomEditor(typeof(Easy_UI_Nav))]
+
 public class Easy_UI_NavEditor : Editor
 {
     Easy_UI_Nav uiNav;
@@ -192,6 +198,7 @@ public class Easy_UI_NavEditor : Editor
           // enable and disable are cleared
     }
 }
+#endif
 
 [System.Serializable]
 public class KeyValue<TKey, TValue>
