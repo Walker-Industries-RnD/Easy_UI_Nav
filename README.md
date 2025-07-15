@@ -4,6 +4,12 @@
 ###### EasyUINav is a program made with allowing for easier UI navigation. Gone are the days of spending time working on and configuring complex navigation setups manually. With EasyUINav, streamline your Unity UI navigation process effortlessly. Simply create a new navigation element by clicking the plus sign, then drag and drop a button to the "User Chosen" button slot, and assign the appropriate game objects to the enable and disable lists. Need to start fresh? Just click "reinitialize" to reset the lists and start anew. Save time and effort with EasyUINav, your go-to solution for simplified UI navigation in Unity.
 
 
+
+[![Clause1](https://github.com/Walker-Industries-RnD/Malicious-Affiliation-Ban/blob/main/WIBan.png?raw=true)](https://github.com/Walker-Industries-RnD/Malicious-Affiliation-Ban/blob/main/README.md)
+
+
+
+
 Contains; Unity Package with all code and a dirt simple sample scene
 ###### Note, this is all HUMAN generated, dapper language /= GPT
 
